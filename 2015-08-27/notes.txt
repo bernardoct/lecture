@@ -1,1 +1,4 @@
 These are my notes. I just changed them.
+
+Try hwloc-ls or hwloc on the cube
+cat /proc/cpuinfo
